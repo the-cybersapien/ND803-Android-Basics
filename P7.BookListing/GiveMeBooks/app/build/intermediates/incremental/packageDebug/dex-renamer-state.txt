@@ -1,7 +1,0 @@
-#Tue Oct 04 18:38:13 IST 2016
-base.0=/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5167259607fc2cc9f57e0b020f1c04702ccdc884
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a7e4bc4556523609775453511f83f3a90c2055a9/classes.dex
-base.1=/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a7e4bc4556523609775453511f83f3a90c2055a9
-file.0=/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5167259607fc2cc9f57e0b020f1c04702ccdc884/classes.dex

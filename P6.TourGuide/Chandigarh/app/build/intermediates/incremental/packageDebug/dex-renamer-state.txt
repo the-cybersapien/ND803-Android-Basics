@@ -1,7 +1,0 @@
-#Wed Sep 28 16:09:09 IST 2016
-base.0=/home/ogcybersapien/AndroidStudioProjects/Chandigarh/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_73ac9cb2b6872fc4cb3ede7bef660e47a93f29a7
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/home/ogcybersapien/AndroidStudioProjects/Chandigarh/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b64645ed8961aa39285d566993ede9ddbbab0ee6/classes.dex
-base.1=/home/ogcybersapien/AndroidStudioProjects/Chandigarh/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b64645ed8961aa39285d566993ede9ddbbab0ee6
-file.0=/home/ogcybersapien/AndroidStudioProjects/Chandigarh/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_73ac9cb2b6872fc4cb3ede7bef660e47a93f29a7/classes.dex

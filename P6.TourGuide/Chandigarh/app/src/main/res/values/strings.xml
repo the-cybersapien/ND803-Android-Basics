@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">Chandigarh</string>
+    <string name="tourist_attractions">Tourist Attractions</string>
+    <string name="malls_and_shopping">Malls and Shopping</string>
+    <string name="hotels_and_restaurants">Hotels and Restaurants</string>
+    <string name="places_of_worship">Places of Worship</string>
+
+
+    <!--Tourist Attractions-->
+    <string name="rock_garden">Rock Garden</string>
+    <string name="rock_garden_add">Sector 1\nChandigarh</string>
+    <string name="rock_garden_desc">The Rock Garden of Chandigarh is a sculpture garden in Chandigarh, India, also known as Nek Chand\'s Rock Garden after its founder Nek Chand, a government official who started the garden secretly in his spare time in 1957. Today it is spread over an area of 40 acres (161874.25 m²). It is completely built of industrial and home waste and thrown-away items.\n\t\t\t
+    It is near Sukhna Lake. It consists of man-made interlinked waterfalls and many other sculptures that have been made of scrap and other kinds of wastes (bottles, glasses, bangles, tiles, ceramic pots, sinks, electrical waste, etc.) which are placed in walled paths.</string>
+
+    <string name="sukhna_lake">Sukhna Lake</string>
+    <string name="sector_1">Sector 1\nChandigarh</string>
+    <string name="sukhna_lake_desc">Sukhna Lake in Chandigarh, India, is a reservoir at the foothills of the Himalayas, the Shivalik hills. This 3 km² rainfed lake was created in 1958 by damming the Sukhna Choe, a seasonal stream coming down from the Shivalik Hills. Originally the seasonal flow entered the lake directly causing heavy siltation. To check the inflow of silt, 25.42 km² of land was acquired in the catchment area and put under vegetation. In 1974, the Choe was diverted and made to bypass the lake completely, the lake being fed by three siltation pots, minimising the entry of silt into the lake itself.</string>
+
+    <string name="garden_of_silence">Garden of Silence</string>
+    <string name="silence_address">Lake Walking Way\nChandigarh</string>
+    <string name="garden_of_silence_desc">The Garden of Silence is a small Garden at the End of the Sukhna Lake Walkway. It features a Sitting Buddha Statue in the middle, and is a place where people go to find some silence in a small, yet busy city.</string>
+
+    <string name="rose_garden">Zakir Hussain Rose Garden</string>
+    <string name="rose_garden_address">Sector 16-B\nChandigarh</string>
+    <string name="rose_garden_desc">Zakir Hussain Rose Garden, is a botanical garden located in Chandigarh, India and spread over 30 acres (120,000 m2) of land, with 50,000 rose-bushes of 1600 different species. Named after India\'s former president, Zakir Hussain and created in 1967 under the guidance of Dr M.S.Randhawa, Chandigarh\'s first chief commissioner, the garden has the distinction of being Asia\'s largest. The garden has not only roses, but also trees of medicinal value. Some of the medicinal plants that can be spotted here are bel, bahera, harar, camphor and yellow gulmohar. The rose plants have been planted in carved-out lawns and flower beds.\n\t\t\t
+Apart from serving as a host of other events, the Zakir Rose Garden serves as the venue for hosting an annual rose festival called Rose Festival, a major cultural event in Chandigarh during February or March. Celebrated mainly as a tribute to the magnificence of the rose itself, the attractions include food, drinks, joyrides, and contests of varying nature, such as photography, gardening, landscaping, bonsai, and Rose Prince and Princess. The contests are open to the residents or institutions from nearby places.</string>
+
+    <string name="open_hand_monument">Open Hand Monument</string>
+    <string name="open_hand_monument_desc">The Open Hand Monument is a symbolic structure located in the Indian Union Territory of Chandigarh, India, designed by the architect Le Corbusier. \nIt is the emblem or symbol of the Government of Chandigarh and symbolizes \"the hand to give and the hand to take; peace and prosperity, and the unity of mankind\". The largest example of Le Corbusier\'s many Open Hand sculptures, it stands 26 metres (85 ft) high. The metal structure with vanes is 14 metres (46 ft) high, weighs 50 short tons (100,000 lb), and was designed to rotate in the wind.</string>
+
+    <string name="govt_museum">Government Museum and Art Gallery</string>
+    <string name="sector_10">Sector 10-C\nChandigarh</string>
+    <string name="govt_museum_desc">The Government Museum and Art Gallery, Chandigarh is a natural history museum and an art gallery in the Indian Union Territory Chandigarh, located in the city of Chandigarh (Sector 10-C near the Rose Garden).\n\nThe Government Museum and Art Gallery has the following sections other than the gallery itself:
+\nThe National History Museum
+\nThe National Gallery of Portraits
+\nThe Chandigarh Architecture Museum
+    </string>
+
+    <string name="zoo">ChattBir Zoo</string>
+    <string name="zoo_address">Birr Chatt\nSAS Nagar\nChandigarh</string>
+    <string name="zoo_desc">ChattBir Zoo (formally Mahendra Chaudhary Zoological Park), is a zoological park situated close to Zirakpur, India and is an abode to a large variety of birds, mammals and reptiles. The lion safari is the most interesting part about the Chattbir Zoo. The construction of a zoo dates back to seventies and at present, it is the most developed zoological park in the area. The Chattbir zoo prides itself with the Royal Bengal tiger. People who visit here can also enjoy the adventurous trip to the reserve of Asiatic Lions where animals are found roaming freely. One can also find different bird species. The zoo remains open throughout the week except Mondays.
+\n\t\t\t
+It is quite interesting to see that how a raw scrubland got changed into a perfect abode for wild beasts. There is a beautiful picture exhibiting ecological harmony contrasting with amazing surroundings. The animals remain in natural habitat as far as behavioral and physical needs are concerned.</string>
+
+    <string name="tower_of_shadows">The Tower of Shadows</string>
+    <string name="tower_of_shadows_desc">Built by the creator of Chandigarh, Mr. Le Corbusier, The Tower of Shadows in Sector 1, is a monument that adds on to the beauty of the city.\n It is an architectural brilliance intended to demonstrate Le Corbusier\'s various theories of sun control.\n\t\t
+    The tower captures the shadows formed with the movement of sun.</string>
+
+    <string name="gallery_of_portraits">National Gallery of Portraits</string>
+    <string name="sector_17">Sector 17\nChandigarh</string>
+    <string name="portraits_desc">Situated in Sector 17, Chandigarh. the National Gallery of Portraints is a remeniscence of the breathtaking struggle of independence. The gallery captures the journey of freedom struggle depicted through the numerous photographs of freedom fighters and historic events that led to the country\'s independence.</string>
+
+    <!--Restaurant Lists-->
+    <string name="barbeque_nation">Barbeque Nation</string>
+    <string name="barbeque_address">SCO 39\nMadhya Marg\nSector 26\nChandigarh</string>
+    <string name="barbeque_call">+91 172 6060000</string>
+    <string name="barbeque_desc">Great veg and non veg skewers for starters. The mains where great in the buffet with some live cooking. And lots of kulfi and paan ice-cream for dessert!</string>
+
+    <string name="lalit_address">The Lalit\nRajiv Gandhi IT Park\nChandigarh</string>
+    <string name="lalit_24_7">24/7 Restaurant @ The Lalit</string>
+    <string name="lalit_24_7_rest_tel">(+91) 172 3007777</string>
+    <string name="lalit_24_7_desc">The buffet is well spread with nice mix of salad and desserts. Indian Veg cuisines are not great. It has ample space for you to have privacy on your table.</string>
+
+    <string name="saffron_marriott">Saffron</string>
+    <string name="marriot_address">JW Marriott\nSector 35-B\nDakshin Marg\nChandigarh</string>
+    <string name="saffron_marriott_tel">(+91) 172 3955555</string>
+    <string name="saffron_desc">An amazing Restaurant with speciality in Mughlai Dishes. Chef Taj is a great host who takes care of each guest\'s wishes and opinions. The restaurant is a must visit place in Chandigarh</string>
+
+    <string name="gopals_35">Gopals Sweets Restaurant and Cake Shop</string>
+    <string name="gopals_35_address">SCO 8\nSector 35\nChandigarh</string>
+    <string name="gopals_tel">(+91) 98 14 509221</string>
+    <string name="gopals_desc">A good value for money place where people can have a variety of indian cuisines arty an affordable price. The place is generally full and requires a little wait but I\'d worth a wait. The restaurant is characterised by self service and offers a good ambience too.</string>
+
+    <string name="pal_dhaba">Pal Dhaba</string>
+    <string name="pal_address">SCO 151–152\nSector 28-D\nChandigarh</string>
+    <string name="pal_dhaba_tel">(+91) 172 2650709</string>
+    <string name="pal_dhaba_desc">Excellent non veg food in Chandigarh. One of the best dhabas in this region specially for mutton, chicken and fish. Although famous for their non Veg Dishes, the place has a great menu for Vegetarian food.</string>
+
+    <string name="virgin_courtyard">Virgin Courtyard</string>
+    <string name="virgin_address">SCO 1A\nSector 7-C\nChandigarh</string>
+    <string name="virgin_courtyard_tel">(+91) 86 99 000999</string>
+    <string name="virgin_courtyard_desc">This restaurant has both indoor seating and outdoors. The outdoors is a beautiful courtyard with marble gravel, candles and fairy lights. So weather permitting go for dinner and sit outdside!
+They have a full bar. The food is gorgeous. would specially recommend the risotto and the pizza. Do not deny yourself the desserts. The deconstructed apple pie is modish and delicious.</string>
+
+    <string name="pirates_of_grill">Pirates Of Grill</string>
+    <string name="pirates_address">SCO 313\nElante Mall\nChandigarh</string>
+    <string name="pirates_of_grill_tel">(+91) 172 4016444</string>
+    <string name="pirates_of_grill_desc">The place has a decent ambience with good spread for both Vegetarians and Non Vegetarians. Special mention for Mutton Rogan Josh and the Biryani. The concept is similar to Barbeque Nation with starters served and barbequed by your own self. Prefer to go if you have an excellent appetite to be able to take full value of your money.</string>
+
+
+    <!--Places of Worship-->
+    <string name="mansa_devi_temple">Mata Mansa Devi Temple</string>
+    <string name="mansa_devi_address">Mansa Devi Complex\nSector 4\nPanchkula</string>
+    <string name="mansa_devi_desc">Mata Mansa Devi is a Hindu temple dedicated to goddess Mansa Devi, a form of Shakti, in the Panchkula district of Haryana state in India. The temple complex is spread of 100 acres (0.40 km2) of the Shivalik foothills in village Bilaspur, near Mani Majra, and Panchkula, 10 km from Chandi Mandir, another noted Devi shrine in the region, both just outside Chandigarh.\n\n\t\t
+It is one of the prominent Shakti temples of North India. Thousands of devotees visit the shrine from various parts of the country, and especially during the Navratra mela, this number rises to lakhs everyday for the nine auspicious days.</string>
+
+    <string name="saketri_temple">Saketri Shiva Temple</string>
+    <string name="saketri_address">Saketri\nPanchkula</string>
+    <string name="saketri_desc">Located about 20 km from the city of Chandigarh is a renowned historical temple called Saketri Shiva Temple. This beautifully constructed temple is wholly dedicated to Lord Shiva. This temple is thronged by large number of devotees during the occasion of Shivratri. </string>
+
+    <string name="nada_sahib_gurudwara">Nada Sahib Gurudwara</string>
+    <string name="nada_sahib_address">Nada Sahib\nPanchkula</string>
+    <string name="nada_sahib_desc">Nada Sahib is a Sikh Gurudwara in the Panchkula district of the Indian state of Haryana. Situated on the banks of the Ghaggar-Hakra River in the Sivalik Hills, it is the location where Guru Gobind Singh halted while travelling from Paonta Sahib to Anandpur Sahib after the Battle of Bhangani in 1688.</string>
+
+    <string name="chandi_mandir">Pracheen Chandi Mandir</string>
+    <string name="chandi_mandir_address">Bhagwanpur\nPanchkula</string>
+    <string name="chandi_mandir_desc">Chandi Mandir (Hindu, Mandir: "Temple") is a Hindu temple near Chandigarh, India, dedicated to Chandi, the goddess of power. It is about 15 km from the city of Chandigarh, which was named after the temple, and about 10 km away from the Mansa Devi Shrine. The temple is situated amidst beautiful surroundings and the backdrop of the Shivalik hills.\n\n\t\t
+During the festival of Navratras, thousands of people visit this temple. The temple has statues of various Hindu deities including Chandi, Radha Krishna, Hanuman, Shiva and Ram.</string>
+
+    <string name="sai_temple">Sai Baba Temple</string>
+    <string name="sai_mandir_address">Sector 29\nChandigarh</string>
+    <string name="sai_temple_desc">The land for the beautiful Shirdi Sai Baba temple was allotted in the year 1989. The founder member of the temple Late Shri I P Mehta played a vital role in acquiring the land. He along with his colleagues were also instrumental for getting the sacred idol of Shirdi Sai Baba which is currently worshipped at the temple. The idol was originally brought from Jaipur. Thereafter it was taken to Shirdi for due worship &amp; pooja and finally brought to Chandigarh. The Swaroop Sthapna ceremony was conducted on 6th December 1995.
+</string>
+
+    <!--Malls of Chandigarh-->
+    <string name="elante_mall">Elante Mall</string>
+    <string name="elante_address">Industrial Area\nPhase 1\nChandigarh</string>
+    <string name="elante_mall_desc">Elante Mall is a shopping mall in the city of Chandigarh in India. With the gross leasable area of 1,150,000 sq ft, it is the second largest shopping mall in Northern India and the third largest in India. Elante is spread over 20 acres of area. It is part of a mixed use real estate development project by Larsen &amp; Toubro called Elante.\n\t\t\t
+    Elante Mall has a retail space of over 1 million square feet. It has 2 basement levels, a ground level and three upper levels. In the retail area, Elante Mall hosts various Indian and international brands like Big Bazaar, Westside, Pantaloons, Lifestyle, Shoppers Stop, Hackett London, Zara, Marks &amp; Spencer, Brooks Brothers, Rolex, Guess, Calvin Klein, Superdry, Tommy Hilfiger, Harley Davidson, Jack &amp; Jones, Aldo, Mango, Steve Madden and Gucci among others. Elante boasts of a great food court, a wonderful courtyard full of cafes, sports bars and has various clothing brands. The Mall has an 8-screen Multiplex of PVR Cinemas. On its top floor, the mall has restaurants and fast food joints, including the ones by KFC, Chili\'s, Nando\'s, McDonald\'s, Burger King, Dunkin Donuts, Bikanervala, Subway and Domino\'s among others. For kids entertainment, there is a Fun City on the top floor which has large numbers of games for all age groups.
+
+</string>
+
+    <string name="tdi_mall">TDI Mall</string>
+    <string name="tdi_mall_desc">Located strategically in the most posh area of the city - sector 17, TDI Mall offers an exciting retail-cum entertainment opportunity to the people of Chandigarh.\n\t\t\t
+The mall is designed to offer world-class shopping and leisure experience to a set of clientele known for its discerning taste. The mall will be fully-equipped with best-in-class facilities including central air conditioning and complete power backup.</string>
+
+    <string name="dlf_city_centre">DLF City Centre</string>
+    <string name="city_centre_address">Plot no. 1 &amp; 2\nRajeev Gandhi IT Park\nChandigarh</string>
+    <string name="dlf_city_centre_desc">DLF City Centre, The Premium Outlet Mall - One stop shopping &amp; entertainment destination offering deals 365 days.\n\t\t\t
+The Mall is strategically located at Rajiv Gandhi IT Park, Chandigarh, close to Golf range and Sukhna lake. It is hardly 15 minutes drive from Sector 17 and very close to the heritage residential areas of Chandigarh. It is built on 2 lakh square feet at the junction point of Panchkula, Manimajra and Chandigarh overlooking the beautiful Shivalik Range.</string>
+
+    <string name="city_plaza">City Plaza</string>
+    <string name="city_plaza_desc">Although not a mall per-say, Sector 17 is the heart of the city. The Complete area is for commercial market. The Place is downtown area of Chandigarh.</string>
+
+    <string name="north_country_mall">North Country Mall</string>
+    <string name="ncm_address">NH-21\nSector-117\nMohali, Chandigarh</string>
+    <string name="ncm_desc">Spread over more than 21 acres it has vast open spaces and parking fields of more than 2000 cars at surface level. An additional parking space of 1500 is there in the basement. Its frontage is more than 350 feet and this mall is poised to become the biggest landmark of Mohali after the cricket stadium.\n\t\t
+The mall has four levels with 10 lakh square feet area. Huge ceilings and wide corridors add to the ambience of this Mall. It has the biggest movie multiples in the tricity with nine screens having a seating capacity of more than 1800 people at a time. 36000 square feet food court is also there adjacent to the multiples in addition to many restaurants\n\t\t\t
+There are around 250 shops in this mall offering a wide spectrum of products for shoppers in addition to big anchor stores and a hypermarket. The hypermarket itself will be more than 1 Lakh square feet in size.</string>
+
+
+</resources>

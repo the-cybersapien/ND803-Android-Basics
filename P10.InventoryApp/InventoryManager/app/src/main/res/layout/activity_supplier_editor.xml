@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_supplier_editor"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="xyz.cybersapien.inventorymanager.SupplierEditorActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="2dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/name"
+        android:minEms="5"
+        android:maxEms="5"
+        android:textSize="16sp"/>
+
+    <EditText
+        android:layout_width="0dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:inputType="text"
+        android:hint="@string/name"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:id="@+id/supplier_name_edit_text"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="2dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/email"
+            android:minEms="5"
+            android:maxEms="5"
+            android:textSize="16sp"/>
+
+        <EditText
+            android:layout_width="0dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:inputType="textEmailAddress"
+            android:hint="@string/google_abc_xyz"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:id="@+id/supplier_email_edit_text"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="2dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/phone"
+            android:minEms="5"
+            android:maxEms="5"
+            android:textSize="16sp"/>
+
+        <EditText
+            android:layout_width="0dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:inputType="phone"
+            android:hint="(XXX) XX XXXX"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:id="@+id/supplier_phone_edit_text"/>
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:id="@+id/save_supplier_button"
+        tools:text="Add"/>
+</LinearLayout>

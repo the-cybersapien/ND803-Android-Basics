@@ -1,0 +1,7 @@
+#Fri Oct 07 20:30:06 IST 2016
+base.0=/home/ogcybersapien/AndroidStudioProjects/NewsDroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_301dca2501e59ab15948d6a96045d9a3e550166e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/ogcybersapien/AndroidStudioProjects/NewsDroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_379f8cda9546df6a7d94e41f9d66a120102e261c/classes.dex
+base.1=/home/ogcybersapien/AndroidStudioProjects/NewsDroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_379f8cda9546df6a7d94e41f9d66a120102e261c
+file.0=/home/ogcybersapien/AndroidStudioProjects/NewsDroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_301dca2501e59ab15948d6a96045d9a3e550166e/classes.dex

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#FFF7DA</color>
+
+    <!-- Colors for different activities in the app-->
+    <color name="colorTourist">#4CAF50</color>
+    <color name="colorMall">#536DFE</color>
+    <color name="colorHotel">#607D8B</color>
+    <color name="colorWorship">#FF9800</color>
+</resources>

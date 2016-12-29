@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e87bfb3465a7f969b2d85f0598318c2cfec68d78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_1d7ab679a397593ec451fb0dbce2a1879fe51269/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_b3f9ebff504baaf83a16bdcce9d8510447cd2398/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_9a67b9df5d8b32daa3ad936cbd662c0aeffc3e7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_db8717c0ca8f0a894fb235ccd3190646ef5f3d5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_8474c58c1ebcd52d4dbd05c97232ac5973da6953/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_4e6f0c1410aea53abe483a256492981ed2af51bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_ef0f1804f0c0d57ea31ecfa1b5b6115f9e847325/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_23c358dd47e9bec065fda82b880c8eafee4ed5ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ogcybersapien/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_dda74c895fceecf3511c12314c94c94f0953d674/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9e58b5ed3591767ea1220f25247612c8b30f21f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fe64574c01663bc0667336baff62ecbef0e039cf">
+        <dex dex="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5167259607fc2cc9f57e0b020f1c04702ccdc884/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a9d419b5bba00ab5b1b420823a90b20453392ac2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_480ee2ff9fdb83327e7d76444bbcbe47560749b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3a2a3357a96d68e20c64a15dc1660e179233cf90">
+        <dex dex="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a7e4bc4556523609775453511f83f3a90c2055a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_720d13a1e5b7932a6f9fa68d47102eefca2dc595/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_8187ae2f3e85dfa55093a8623fa532dde1da1c57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ogcybersapien/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/ogcybersapien/AndroidStudioProjects/GiveMeBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_67c4c7b63e33cbe0e18211272663dea579114fba/classes.dex" />
+    </item>
+
+</items>

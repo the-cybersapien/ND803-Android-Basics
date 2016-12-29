@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">NewsDroid</string>
+
+    <!-- Strings related to Settings -->
+    <string name="title_activity_settings">Settings</string>
+    <!-- Strings for Sections Preference-->
+    <string name="settings_section_label">News Section</string>
+    <string name="settings_section_key" translatable="false">section</string>
+    <string name="settings_section_default_value" translatable="false">@string/settings_section_technology_value</string>
+
+    <!--Section : Art and Design-->
+    <string name="settings_section_art_label">Art &amp; Design</string>
+    <string name="settings_section_art_value">artanddesign</string>
+
+    <!--Section : Books-->
+    <string name="settings_section_books_label">Books</string>
+    <string name="settings_section_books_value">books</string>
+
+    <!--Section : Business-->
+    <string name="settings_section_business_label">Business</string>
+    <string name="settings_section_business_value">business</string>
+
+    <!--Section : Culture-->
+    <string name="settings_section_culture_label">Culture</string>
+    <string name="settings_section_culture_value">culture</string>
+
+    <!--Section : Education-->
+    <string name="settings_section_education_label">Education</string>
+    <string name="settings_section_education_value">education</string>
+
+    <!--Section : Environment-->
+    <string name="settings_section_environment_label">Environment</string>
+    <string name="settings_section_environment_value">environment</string>
+
+    <!--Section : Fashion-->
+    <string name="settings_section_fashion_label">Fashion</string>
+    <string name="settings_section_fashion_value">fashion</string>
+
+    <!--Section : Film-->
+    <string name="settings_section_film_label">Film</string>
+    <string name="settings_section_film_value">film</string>
+
+    <!--Section : Law-->
+    <string name="settings_section_law_label">Law</string>
+    <string name="settings_section_law_value">law</string>
+
+    <!--Section : Media-->
+    <string name="settings_section_media_label">Media</string>
+    <string name="settings_section_media_value">media</string>
+
+    <!--Section : Music-->
+    <string name="settings_section_music_label">Music</string>
+    <string name="settings_section_music_value">music</string>
+
+    <!--Section : Science-->
+    <string name="settings_section_science_label">Science</string>
+    <string name="settings_section_science_value">science</string>
+
+    <!--Section : Sports-->
+    <string name="settings_section_sports_label">Sports</string>
+    <string name="settings_section_sports_value">sport</string>
+
+    <!--Section : Technology-->
+    <string name="settings_section_technology_label">Technology</string>
+    <string name="settings_section_technology_value">technology</string>
+
+    <!--Section : Travel-->
+    <string name="settings_section_travel_label">Travel</string>
+    <string name="settings_section_travel_value">travel</string>
+
+    <!--Section : Television-->
+    <string name="settings_section_television_label">television &amp; radio</string>
+    <string name="settings_section_television_value">tv-and-radio</string>
+
+    <!--End for List Preference-->
+    <string name="settings_number_label">Number of News Items</string>
+    <string name="settings_number_key" translatable="false">number</string>
+    <string name="settings_number_default_value" translatable="false">10</string>
+
+    <string name="no_internet">No Internet Connection.</string>
+    <string name="error_getting_data">Error Getting Data</string>
+
+</resources>

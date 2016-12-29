@@ -1,0 +1,66 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Know SpaceX</string>
+
+    <!-- General hint for EditText Views-->
+    <string name="NameTextHint">Enter the Name Here</string>
+
+    <!-- Question 1 -->
+    <string name="question1text">Who is the CEO of SpaceX?</string>
+    <string name="q1">Q1.</string>
+    <string name="q1Ans1">Elon Musk</string>
+    <string name="q1Ans2">Bill Gates</string>
+    <string name="q1Ans3">Neil Harris</string>
+
+    <!-- Question 2 -->
+    <string name="q2">Q2.</string>
+    <string name="Question2Text">What is the name of the flagship space travel capsule from SpaceX?</string>
+
+    <!-- Question 3 -->
+    <string name="q3">Q3.</string>
+    <string name="Question3Text">Which of the following are the rockets from SpaceX?</string>
+    <string name="q3check1">Eagle 20</string>
+    <string name="q3check2">Falcon 9</string>
+    <string name="q3check3">Falcon Heavy</string>
+    <string name="q3check4">Tesla 25</string>
+
+    <!-- Question 4 -->
+    <string name="q4">Q4.</string>
+    <string name="Question4Text">How many Engines are there in the Falcon Heavy Rocket?</string>
+    <string name="q4Ans1">9</string>
+    <string name="q4Ans3">3</string>
+    <string name="q4Ans2">27</string>
+
+    <!-- Question 5 -->
+    <string name="q5">Q5.</string>
+    <string name="Question5Text">Where is SpaceX’s Mission Control?</string>
+    <string name="q5Ans1">Hawthorne, California</string>
+    <string name="q5Ans3">Kennedy Space Center</string>
+    <string name="q5Ans2">Mountain View, California</string>
+
+    <!-- Question 6 -->
+    <string name="q6">Q6.</string>
+    <string name="question6Text">Which of the following are companies headed by Elon Musk?</string>
+    <string name="q6check1">Solar City</string>
+    <string name="q6check2">Google Inc.</string>
+    <string name="q6check3">SpaceX</string>
+    <string name="q6check4">Tesla Motors</string>
+
+    <!-- Question 7 -->
+    <string name="q7">Q7.</string>
+    <string name="question7Text">What fictional ship are the Falcon rocket series named after?</string>
+
+    <!-- Question 8 -->
+    <string name="q8">Q8.</string>
+    <string name="Question8Text">What superhero movie was shot in the SpaceX\'s HQ Factory?</string>
+    <string name="q8Ans1">Iron Man 2</string>
+    <string name="q8Ans2">The Dark Knight</string>
+    <string name="q8Ans3">Kickass 2</string>
+
+    <!-- Current Score for the SnackBar -->
+    <string name="currentScore">Current Score is: <xliff:g id="score" example="25">%d</xliff:g></string>
+
+    <!-- Notification when answering a question -->
+    <string name="addedPoints">Great! +<xliff:g id="score" example="5">%d</xliff:g></string>
+
+
+</resources>

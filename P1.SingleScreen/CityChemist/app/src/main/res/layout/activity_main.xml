@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="cybersapien.xyz.citychemist.MainActivity">
+
+    <ImageView
+
+        android:layout_height="0dp"
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:src="@drawable/storefront"
+        android:contentDescription="@string/imgDesc"
+        android:scaleType="fitXY"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Name"
+            android:textSize="32sp"
+            android:textColor="@android:color/black"
+            android:textAllCaps="true"/>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/Owner_name"
+                    android:textSize="24sp"
+                    android:paddingTop="5dp"
+                    android:drawableLeft="@drawable/ic_person"
+                    android:drawablePadding="16dp"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/shopAddress"
+                    android:textSize="18sp"
+                    android:paddingTop="5dp"
+                    android:drawableLeft="@drawable/ic_store"
+                    android:drawablePadding="16dp"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="18sp"
+                    android:paddingTop="5dp"
+                    android:drawableLeft="@drawable/ic_access_time"
+                    android:drawablePadding="16dp"
+                    android:text="@string/shopTiming"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/phone"
+                    android:textSize="18sp"
+                    android:paddingTop="5dp"
+                    android:drawableLeft="@drawable/ic_call"
+                    android:drawablePadding="16dp"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/mobile"
+                    android:textSize="18sp"
+                    android:paddingTop="5dp"
+                    android:drawableLeft="@drawable/ic_call"
+                    android:drawablePadding="16dp"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="5dp"
+                    android:text="@string/ShopDesc"/>
+            </LinearLayout>
+
+        </ScrollView>
+
+
+    </LinearLayout>
+
+</LinearLayout>

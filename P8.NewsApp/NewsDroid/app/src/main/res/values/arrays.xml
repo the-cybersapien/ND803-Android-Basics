@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Labels of all the Sections-->
+    <string-array name="settings_sections_label">
+        <item>@string/settings_section_art_label</item>
+        <item>@string/settings_section_books_label</item>
+        <item>@string/settings_section_business_label</item>
+        <item>@string/settings_section_culture_label</item>
+        <item>@string/settings_section_education_label</item>
+        <item>@string/settings_section_environment_label</item>
+        <item>@string/settings_section_fashion_label</item>
+        <item>@string/settings_section_film_label</item>
+        <item>@string/settings_section_law_label</item>
+        <item>@string/settings_section_media_label</item>
+        <item>@string/settings_section_music_label</item>
+        <item>@string/settings_section_science_label</item>
+        <item>@string/settings_section_sports_label</item>
+        <item>@string/settings_section_technology_label</item>
+        <item>@string/settings_section_travel_label</item>
+        <item>@string/settings_section_television_label</item>
+    </string-array>
+
+
+    <!--Values of all the Sections-->
+    <string-array name="settings_sections_values">
+        <item>@string/settings_section_art_value</item>
+        <item>@string/settings_section_books_value</item>
+        <item>@string/settings_section_business_value</item>
+        <item>@string/settings_section_culture_value</item>
+        <item>@string/settings_section_education_value</item>
+        <item>@string/settings_section_environment_value</item>
+        <item>@string/settings_section_fashion_value</item>
+        <item>@string/settings_section_film_value</item>
+        <item>@string/settings_section_law_value</item>
+        <item>@string/settings_section_media_value</item>
+        <item>@string/settings_section_music_value</item>
+        <item>@string/settings_section_science_value</item>
+        <item>@string/settings_section_sports_value</item>
+        <item>@string/settings_section_technology_value</item>
+        <item>@string/settings_section_travel_value</item>
+        <item>@string/settings_section_television_value</item>
+    </string-array>
+</resources>

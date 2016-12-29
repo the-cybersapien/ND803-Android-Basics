@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="xyz.cybersapien.chandigarh.MainActivity"
+    android:background="@color/colorBackground">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/main_activity_height"
+        android:text="@string/tourist_attractions"
+        style="@style/MainActivityListStyle"
+        android:id="@+id/tourist_attraction"
+        android:onClick="onClickListener"
+        android:background="@color/colorTourist"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/main_activity_height"
+        android:text="@string/malls_and_shopping"
+        style="@style/MainActivityListStyle"
+        android:id="@+id/mall_attraction"
+        android:onClick="onClickListener"
+        android:background="@color/colorMall"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/main_activity_height"
+        android:text="@string/hotels_and_restaurants"
+        style="@style/MainActivityListStyle"
+        android:onClick="onClickListener"
+        android:id="@+id/hotel_restaurant"
+        android:background="@color/colorHotel"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/main_activity_height"
+        android:text="@string/places_of_worship"
+        style="@style/MainActivityListStyle"
+        android:onClick="onClickListener"
+        android:id="@+id/places_worship"
+        android:background="@color/colorWorship"/>
+
+</LinearLayout>

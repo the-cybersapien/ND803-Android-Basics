@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ogcybersapien/AndroidStudioProjects/Chandigarh/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_location_on.png",
+        "source": "/home/ogcybersapien/AndroidStudioProjects/Chandigarh/app/src/main/res/drawable-mdpi/ic_location_on.png"
+    },
+    {
+        "merged": "/home/ogcybersapien/AndroidStudioProjects/Chandigarh/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_call.png",
+        "source": "/home/ogcybersapien/AndroidStudioProjects/Chandigarh/app/src/main/res/drawable-mdpi/ic_call.png"
+    }
+]

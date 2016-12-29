@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+/usr/lib/jvm/java-8-oracle/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/usr/share/bluej/bluejcore.jar:/usr/share/bluej/junit-4.8.2.jar:/usr/share/bluej/userlib/pi4j-core.jar:/usr/share/bluej/userlib/pi4j-device.jar:/usr/share/bluej/userlib/pi4j-gpio-extension.jar:/usr/share/bluej/userlib/pi4j-service.jar:/home/ogcybersapien/Class
+-d
+/home/ogcybersapien/Class/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/usr/share/bluej/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/home/ogcybersapien/Class/ReportCard.java
+<---- end of javadoc command ---->
+Loading source file /home/ogcybersapien/Class/ReportCard.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_101
+Building tree for all the packages and classes...
+Generating /home/ogcybersapien/Class/doc/ReportCard.html...
+/home/ogcybersapien/Class/ReportCard.java:25: warning - @param tag has no arguments.
+/home/ogcybersapien/Class/ReportCard.java:25: warning - @param argument "" is not a parameter name.
+Generating /home/ogcybersapien/Class/doc/package-frame.html...
+Generating /home/ogcybersapien/Class/doc/package-summary.html...
+Generating /home/ogcybersapien/Class/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /home/ogcybersapien/Class/doc/allclasses-frame.html...
+Generating /home/ogcybersapien/Class/doc/allclasses-noframe.html...
+Generating /home/ogcybersapien/Class/doc/index.html...
+Generating /home/ogcybersapien/Class/doc/stylesheet.css...
+2 warnings

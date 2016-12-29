@@ -1,0 +1,7 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Cricket Score Keeper</string>
+    <string name="reset">Reset</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="overs">Overs: <xliff:g id="overCount" example="6">%d</xliff:g>.<xliff:g id="ballCount" example="3">%d</xliff:g></string>
+</resources>

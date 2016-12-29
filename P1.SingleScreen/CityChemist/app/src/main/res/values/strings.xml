@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">City Chemist</string>
+    <string name="imgDesc">Store Front Picture</string>
+    <string name="shopAddress">S.C.O 36\nSector 29/D\nChandigarh-160029</string>
+    <string name="phone">+91 172 2652613</string>
+    <string name="mobile">+91 9815857101</string>
+    <string name="Owner_name">Mr. Ajay Aggarwal</string>
+    <string name="Name">City Chemist</string>
+    <string name="ShopDesc">City Chemist is one of the most trusted pharmacy in Chandigarh, since August 15, 1989. The shop is run by Mr. Ajay Aggarwal who shows the utmost dedication to his work and sees customer satisfaction as a priority.\nAll kinds of Modern medicines are available at the store.\nThe store also sells all types of body care products such as toiletries, babycare products including all kinds of nutritious oils, talcs and health supplements.\nMr. Aggarwal is a trained Pharmacist with a Pharmacy degree, and has years of experience with medicines.</string>
+    <string name="shopTiming">8:00 AM - 9:30 PM</string>
+</resources>
